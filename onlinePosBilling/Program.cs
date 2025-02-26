@@ -16,7 +16,7 @@ namespace onlinePosBilling
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BillingInterface());
+            Application.Run(new loginForm());
         }
     }
 }
