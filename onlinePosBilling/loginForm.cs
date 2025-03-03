@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace onlinePosBilling
 {
-    public partial class loginForm: Form
+    public partial class UserLoginPanel: Form
     {
-        public loginForm()
+        public UserLoginPanel()
         {
             InitializeComponent();
         }
