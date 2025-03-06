@@ -45,10 +45,6 @@ C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Deb
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.csproj.SuggestedBindingRedirects.cache
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.exe.config
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePo.48F32A8E.Up2Date
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.BillingInterface.resources
 C:\Users\user\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\onlinePosBilling.exe.config
 C:\Users\user\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\onlinePosBilling.exe
 C:\Users\user\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\onlinePosBilling.pdb
@@ -99,3 +95,9 @@ C:\Users\user\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlin
 C:\Users\user\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.csproj.CopyComplete
 C:\Users\user\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.exe
 C:\Users\user\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.pdb
+C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.UserLoginPanel.resources
+C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.csproj.CopyComplete
+C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\Guna.UI2.dll
+C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.Component.Billing.resources
+C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\Newtonsoft.Json.xml
