@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|solutionrelative:billinginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|c:\\users\\abdul-rahman\\documents\\github\\onlineposoffline\\onlineposbilling\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|c:\\users\\abdul-rahman\\documents\\github\\onlineposoffline\\onlineposbilling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,8 +45,7 @@
               "ToolTip": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\loginForm.cs [Design]",
               "RelativeToolTip": "loginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T03:01:35.327Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-24T03:01:35.327Z"
             },
             {
               "$type": "Document",
@@ -62,8 +57,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T03:01:41.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T03:01:41.473Z"
             }
           ]
         }

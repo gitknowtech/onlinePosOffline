@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|c:\\users\\abdul-rahman\\documents\\github\\onlineposoffline\\onlineposbilling\\billinginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|solutionrelative:billinginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|c:\\users\\abdul-rahman\\documents\\github\\onlineposoffline\\onlineposbilling\\component\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|solutionrelative:component\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|c:\\users\\abdul-rahman\\documents\\github\\onlineposoffline\\onlineposbilling\\userlogin panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9E310E-0C31-4C75-8F0C-3FC7FAA07682}|onlinePosBilling.csproj|solutionrelative:userlogin panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,37 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BillingInterface.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\BillingInterface.cs",
-              "RelativeDocumentMoniker": "BillingInterface.cs",
-              "ToolTip": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\BillingInterface.cs [Design]",
-              "RelativeToolTip": "BillingInterface.cs [Design]",
+              "Title": "Billing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\Component\\Billing.cs",
+              "RelativeDocumentMoniker": "Component\\Billing.cs",
+              "ToolTip": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\Component\\Billing.cs [Design]",
+              "RelativeToolTip": "Component\\Billing.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T03:00:50.651Z",
+              "WhenOpened": "2025-03-17T02:57:43.444Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "loginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\loginForm.cs",
-              "RelativeDocumentMoniker": "loginForm.cs",
-              "ToolTip": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\loginForm.cs [Design]",
-              "RelativeToolTip": "loginForm.cs [Design]",
+              "Title": "UserLogin Panel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\UserLogin Panel.cs",
+              "RelativeDocumentMoniker": "UserLogin Panel.cs",
+              "ToolTip": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\UserLogin Panel.cs",
+              "RelativeToolTip": "UserLogin Panel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T03:01:35.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Abdul-Rahman\\Documents\\GitHub\\onlinePosOffline\\onlinePosBilling\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T03:01:41.473Z"
+              "WhenOpened": "2025-03-17T02:56:49.319Z",
+              "EditorCaption": ""
             }
           ]
         }
