@@ -7,13 +7,8 @@ C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Deb
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.csproj.CoreCompileInputs.cache
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.exe
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.pdb
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Buffers.dll
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Memory.dll
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Numerics.Vectors.dll
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\BouncyCastle.Cryptography.xml
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\Google.Protobuf.pdb
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\Google.Protobuf.xml
@@ -79,4 +74,5 @@ C:\Users\user\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlin
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.UserLoginPanel.resources
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.Component.Billing.resources
 C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePo.48F32A8E.Up2Date
+C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\obj\Debug\onlinePosBilling.csproj.CopyComplete
+C:\Users\Abdul-Rahman\Documents\GitHub\onlinePosOffline\onlinePosBilling\bin\Debug\System.IO.Pipelines.dll
